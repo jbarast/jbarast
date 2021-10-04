@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Jbarast!
-- I'm c# developer, passionate to learn new things.
+
